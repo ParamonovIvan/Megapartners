@@ -69,7 +69,7 @@ h2 {
 
 .link {
   cursor: pointer;
-  text-decoration: underline transparent;
+  text-decoration: none;
   transition: color .3s, text-decoration .3s;
 }
 
